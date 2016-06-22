@@ -1,1 +1,1 @@
-docker build -t easypost:latest .
+docker build --no-cache -t easypost:latest .
